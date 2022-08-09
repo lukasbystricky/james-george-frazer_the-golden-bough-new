@@ -46,7 +46,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>English</dc:language>
+		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/59607</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/60250</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/41832</dc:source>
