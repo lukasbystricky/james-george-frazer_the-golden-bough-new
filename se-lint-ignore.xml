@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="endnotes-*.xhtml">
+		<ignore>
+			<code>t-033</code>
+			<reason>Some Dutch journal titles include a hyphen followed by a space.</reason>
+		</ignore>
+		<ignore>
+			<code>s-086</code>
+			<reason>[TO DO] Replace op.cit., loc. cit., id., and ibid.</reason>
+		</ignore>
+		<ignore>
+			<code>t-060</code>
+			<reason>[TO DO] Modernize Biblical citations.</reason>
+		</ignore>
+		<ignore>
+			<code>s-094</code>
+			<reason>[TO DO] Run renumber endnotes.</reason>
+		</ignore>
+		<ignore>
+			<code>t-064</code>
+			<reason>[TO DO] Title-case journal and book names.</reason>
+		</ignore>
+		<ignore>
+			<code>s-084</code>
+			<reason>[TO DO] Change semantics for poetry.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
