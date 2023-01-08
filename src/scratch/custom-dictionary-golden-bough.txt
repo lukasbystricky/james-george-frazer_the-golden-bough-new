@@ -406,6 +406,7 @@ Emesa
 Emin
 emisit
 enanai
+encompassed
 Encyclopaedia
 endeavours
 enhlela
@@ -436,6 +437,8 @@ Fida
 fiketrehane
 Finow’s
 fiounrâma
+firstfruit
+firstfruits
 fisherfolk
 Fitaure
 fiz
@@ -461,6 +464,7 @@ gangan
 Gangas
 Garstang
 Gascoyne
+gathered
 Gatschet
 Gattanewa
 Gayos
@@ -712,6 +716,7 @@ Lengua
 Leti
 leungka
 lheuëh
+lion
 lisoka
 Loango
 Lobengula
@@ -894,6 +899,7 @@ Ndem
 ndui
 nduka
 necklets
+needfire
 Nehap
 neighbour
 neighbour’s
@@ -1015,6 +1021,7 @@ ploughmen
 Plutonia
 pò
 Polemarch
+polmarch
 pomali
 pombe
 poro
@@ -1121,6 +1128,7 @@ Schoolcraft
 Seaghais
 segetet
 seiz’d
+seized
 Selwanga
 semangat
 senga
@@ -1193,10 +1201,12 @@ sympathisers
 Tâ
 tabak
 Tabali
+tabooed
 tahika
 Taif
 Tâikkizhavi
 Taikun
+Taikuns
 Tajan
 Talagabodas
 tâli
@@ -1215,6 +1225,7 @@ Tarkuaris
 Tarkumbios
 Tauric
 Tay
+tcx
 Tegbwesun
 Tegea
 teh
@@ -1242,6 +1253,7 @@ tiai
 Ticunas
 tief
 Tieng
+tiger
 Tiglath
 tilliitsh
 tillit
